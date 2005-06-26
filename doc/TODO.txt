@@ -1,0 +1,5 @@
+TODO TX_FRONTENDFORMSLIB
+------------------------
+
+	- Support FIELDSET and LEGEND tags in step configuration
+	
